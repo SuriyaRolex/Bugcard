@@ -1,0 +1,13 @@
+export { default as NotFound } from "./notFound";
+export { default as Projects } from "./projects";
+export { default as ProjectInstances } from "./projectInstances";
+export { default as Login } from "./login";
+export { default as SignUp } from "./signUp";
+export { default as ForgotPassword } from "./forgotPassword";
+export { default as InstanceDetail } from "./instanceDetail";
+export { default as Application } from "./applicationDetails";
+export { default as ErrorLog } from "./errorLog";
+export { default as DASTReport } from "./dastReport";
+export { default as BDDReport } from "./bddReport";
+export { default as SASTReport } from "./sastReport";
+export { default as PerformanceReport } from "./performanceReport";

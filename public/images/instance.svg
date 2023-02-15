@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="211" viewBox="0 0 1366 211">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.054" y1="1" x2="1.128" y2="0.134" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0d192a"/>
+      <stop offset="0.085" stop-color="#1b2c47"/>
+      <stop offset="0.327" stop-color="#18283e"/>
+      <stop offset="0.724" stop-color="#18283e"/>
+      <stop offset="0.917" stop-color="#213960"/>
+      <stop offset="1" stop-color="#0f2240"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.073" y1="1.034" x2="1.128" y2="0.134" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0d192a"/>
+      <stop offset="0.1" stop-color="#243756"/>
+      <stop offset="0.327" stop-color="#18283e"/>
+      <stop offset="0.724" stop-color="#18283e"/>
+      <stop offset="0.917" stop-color="#213960"/>
+      <stop offset="1" stop-color="#0f2240"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1366" height="211" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 0.154)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1366" height="211" transform="translate(0 -0.154)" fill="url(#linear-gradient-2)"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -0.154)" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1" transform="translate(-137.797 -75.394)" opacity="0.83">
+        <path id="Path_1" data-name="Path 1" d="M-134.124,82.075s-83.157-10.209,541.862,67.381S877.173,39.2,1193.706,18.777" transform="translate(137.797 71.064)" fill="none" stroke="#fff" stroke-width="1" opacity="0.18"/>
+        <path id="Path_2" data-name="Path 2" d="M-75.11,135.365s311.168,22.46,413.1,67.381,152.9,138.846,203.869,238.9,405.055,163.348,520.4-69.423,214.6-263.4,359.453-275.649" transform="translate(137.797 52.485)" fill="none" stroke="#fff" stroke-width="1" opacity="0.18"/>
+        <path id="Path_3" data-name="Path 3" d="M1366-56.332s-424.448,187.85-534.43,353.24-643.8-153.139-887.9-140.887" transform="translate(137.797 89.002)" fill="none" stroke="#fff" stroke-width="1" opacity="0.18"/>
+        <path id="Path_4" data-name="Path 4" d="M372.865-89.043S362.135,127.393,643.8,70.221,992.52-89.043,1137.374-99.252" transform="translate(137.797 99.252)" fill="none" stroke="#fff" stroke-width="1" opacity="0.18"/>
+      </g>
+    </g>
+  </g>
+</svg>

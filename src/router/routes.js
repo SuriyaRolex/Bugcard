@@ -1,0 +1,17 @@
+export const AppRoutes = {
+  home: "/",
+  login: "/login",
+  signUp: "/signUp",
+  forgotPassword:"/forgotpassword",
+  projects: "/projects",
+  projectInstanceDetailParent: "/project/instance/",
+  projectInstanceDetail: "/project/instance/:project_id/:id",
+  projectInstancesParent:"/project/instances/",
+  projectInstances:"/project/instances/:project_id",
+  application: "/application/:project_id/:instance_id/:application_id",
+  applicationlog:"/applicationlog/:log_type/:project_id/:instance_id/:application_id",
+  DASTReport:"/DAST_Report/:application_id",
+  BDDReport:"/BDD_Report/:application_id",
+  SASTReport:"/SAST_Report/:application_id" ,
+  Performance_Test_Report:"/Performance_Test_Report/:application_id",
+};

@@ -1,0 +1,64 @@
+{
+    "direction": "ltr",
+    "components": {
+        "MuiInputBase": {
+            "styleOverrides": {
+                "input": {
+                    "& input::placeholder": {
+                        "fontFamily": "crayond_regular"
+                    },
+                    "fontFamily": "crayond_medium"
+                }
+            }
+        }
+    },
+    "typography": {
+        "fontFamily": "crayond_bold",
+        "subtitle1": {
+            "fontFamily": "crayond_regular"
+        },
+        "subtitle2": {
+            "fontFamily": "crayond_medium"
+        },
+        "body1": {
+            "fontFamily": "crayond_regular"
+        },
+        "body2": {
+            "fontFamily": "crayond_regular"
+        },
+        "caption": {
+            "fontFamily": "crayond_regular"
+        },
+        "overline": {
+            "fontFamily": "crayond_regular"
+        }
+    },
+    "palette": {
+        "mode": "light",
+        "primary": {
+            "light": "#3382eb",
+            "main": "#0063e7",
+            "dark": "#0045a1",
+            "contrastText": "#fff"
+        },
+        "secondary": {
+            "light": "#ff6333",
+            "main": "#ff3d00",
+            "dark": "#b22a00",
+            "contrastText": "#fff"
+        },
+        "error": {
+            "light": "#e57373",
+            "main": "#f44336",
+            "dark": "#d32f2f",
+            "contrastText": "#fff"
+        },
+        "text":{
+            "primary":"#18283E",
+            "secondary":"#848484"
+        },
+        "typography":{
+            "main":"#18283E"
+        }
+    }
+}
